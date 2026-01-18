@@ -54,5 +54,6 @@ Program se ne kompajlira.
 Provjeriti da je standard postavljen na C++11 ili C++14.
 Project Properties → C/C++ → Language → C++ Language Standard → ISO C++14.
 
+Projekt je napravljen za Visual Studio 2022 i zahtijeva instaliran workload Desktop development with C++ (MSVC v143).
 
 Luka Rajič , Lana Bule
