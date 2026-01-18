@@ -12,8 +12,7 @@ Kako pokrenuti projekt:
 
 Opcija 1: Visual Studio (Windows)
 1. Otvoriti datoteku treseta.sln
-2. Odabrati konfiguraciju Release ili Debug
-3. Pokrenuti projekt klikom na Local Windows Debugger
+2. Pokrenuti projekt klikom na Local Windows Debugger
 
 Opcija 2: Pokretanje preko .exe
 1. Otvoriti mapu x64/Debug
@@ -53,7 +52,7 @@ Mogući problemi i rješenja:
 Program se ne kompajlira.
 Provjeriti da je standard postavljen na C++11 ili C++14.
 Project Properties → C/C++ → Language → C++ Language Standard → ISO C++14.
+Projekt je napravljen za **Visual Studio 2022** i zahtijeva instaliran workload Desktop development with C++ (MSVC v143).
 
-Projekt je napravljen za Visual Studio 2022 i zahtijeva instaliran workload Desktop development with C++ (MSVC v143).
 
 Luka Rajič , Lana Bule
