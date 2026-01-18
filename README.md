@@ -16,7 +16,7 @@ Opcija 1: Visual Studio (Windows)
 3. Pokrenuti projekt klikom na Local Windows Debugger
 
 Opcija 2: Pokretanje preko .exe
-1. Otvoriti mapu x64/Debug/
+1. Otvoriti mapu x64/Debug
 2. Pokrenuti treseta.exe
 
 Kontrole u igri :
